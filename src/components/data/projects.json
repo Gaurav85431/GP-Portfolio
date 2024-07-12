@@ -1,0 +1,51 @@
+[
+  {
+    "key": 1,
+    "title": "MERN Stack CRUD Application with User and Admin Panel",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Constructed a robust MERN CRUD application with distinct user and admin panels.",
+    "demo": "https://65fbdc7f0b30e08db1e7d176--tangerine-liger-2081bb.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Online job portal",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Developed a Job Portal using MERN stack where job seekers can easily apply for jobs and recruiters can effortlessly post job openings.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Online BookStore",
+    "imageSrc": "https://images.unsplash.com/photo-1669040817350-a501a0fb051c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJvb2tzdG9yZXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "I developed a MERN-based bookstore project offering users access to a diverse selection of books.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Blog Application",
+    "imageSrc": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJsb2d8ZW58MHx8MHx8fDA%3D",
+    "description": "Developed a MERN-based blog application showcasing user friendly UI, user authentication, and essential features like blog creation and reading.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+
+  {
+    "key": 5,
+    "title": "Reactjs Ecommerce shopping project (ESHOP)",
+    "imageSrc": "https://plus.unsplash.com/premium_photo-1679079456083-9f288e224e96?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8fDA%3D",
+    "description": "I worked on an exciting project where I created a website for online shopping using React.js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 6,
+    "title": "our and Travel website",
+    "imageSrc": "https://images.unsplash.com/photo-1501554728187-ce583db33af7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D",
+    "description": " Developed an immersive Tour and Travel website using React.js, providing users online experience for exploring and travel destinations.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

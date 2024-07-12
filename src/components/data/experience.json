@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "role": "Backend Development Engineer",
+    "organisation": "Lonex Corporation Pvt. Ltd.",
+    "startDate": "Aug, 2023",
+    "endDate": "Feb, 2024",
+    "location": "Noida, Uttar Pradesh, India",
+    "experiences": ["Worked on Node.js"],
+    "imageSrc": "company/lonex.png"
+  }
+]
